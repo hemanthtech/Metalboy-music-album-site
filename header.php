@@ -45,12 +45,16 @@
 		padding:10px;
 		text-transform:capitalize;
 	}
+	
+	.band-descri {
+		margin-left:10px;
+	}
+	
 	.bands a {
 		display:inline-block;
-		padding:10px;
-		background-color:black;
-		color:white;
+		margin-left:10px;
 	}
+	
 	.footer {
 		margin-top:7px;
 		margin-bottom:0px;
@@ -58,6 +62,10 @@
 	}
 	.footer p {
 		color:white;
+	}
+	
+	hr {
+		border-color:black;
 	}
   </style>
 </head>
